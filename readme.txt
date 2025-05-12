@@ -7,7 +7,7 @@ Variáveis:
 - saldoVitorias (calculado como vitorias - derrotas).
 - nivel (determinado com base nas vitórias).
 
-Operadores:
+Operadores: 
 - Aritméticos (- para calcular o saldo).
 - Comparação (>=, <=, <).
 
